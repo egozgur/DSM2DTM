@@ -71,7 +71,4 @@ Numpy
 Math
 Matplotlib
 
-## --------      Request for feedback     -----------------------------
 
-
-I shall be grateful if you intend to use this code in a project. Kindly let me know your intended applications with this code. I will be happy to assist with problems/issues and feedback :  ozprakharpooner at gmail dot com
